@@ -1,0 +1,122 @@
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" style="font-family:" times="">HP FORM XXXII RP. Sp. P</span></b></span></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" style="font-family:" times="">SPECIAL PERMIT</span></b></span></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span lang="EN-US" new="" roman="" style="font-family:" times="">Section 88(8) of the Motor Vehicle Act, 1988 and Rule 65 (vi)</span></span></span></span></p>
+
+<p align="center" style="text-align:center"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span lang="EN-US" new="" roman="" style="font-family:" times="">of the HP Motor Vehicle Rules, 1999.</span></span></span></span></p>
+
+<table cellpadding="3" class="MsoTableGrid" style="border-collapse:collapse;border:none;font-size:12px;width:100%;">
+	<tbody>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:2px solid black; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Special Permit No</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:2px solid black; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Code]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Issued Date</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><span lang="EN-US" new="" roman="" times="">[SPapplication Issued At]</span></span></span></span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Engine No</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Engine No]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Chassis No</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Chassis No]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Registration No</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Registration No]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Registered by the Registering Authority</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication&nbsp;Registering Authority]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Owned By</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Aplicant]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Son of</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Aplicant Father]</span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="border-bottom:2px solid black;  padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Permanent Address</span></b></span></span></span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">House No. And Street</span></span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black;  padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication House No]</span></td>
+			<td colspan="2" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">State</span></span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication State]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">Village/Town/City</span></span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Village]</span></td>
+			<td colspan="2" style="border-bottom:2px solid black;padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">District</span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black;padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication District]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">Pin Code</span></span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Pincode]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">Covered by Permit No</span></span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Permit No]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Valid From</span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Valid From]</span></td>
+			<td colspan="2" style="border-bottom:2px solid black;padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Valid Upto</span></b></span></span></span></td>
+			<td style="border-bottom:2px solid black;  padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Valid upto]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">Issued by State/Regional Transport Authority</span></span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Issued By]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US"><span new="" roman="" times="">Seating Capacity</span></span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Total Passenger]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Total Passenger to be carried</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">As per seating Capacity </span></b></span></span></span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">From Location</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Location From]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">To Location</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;">[SPapplication Location To]</span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Via Locations</span></b></span></span></span></td>
+			<td colspan="4" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">[SPapplication Via Location]ddddd</span></b></span></span></span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:2px solid black" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">The Special Permit is Valid </span></b></span></span></span></td>
+			<td colspan="2" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">From: </span></b><span lang="EN-US" new="" roman="" times="">[SPapplication SP Permit From]</span></span></span></span></td>
+			<td colspan="2" style="border-bottom:2px solid black; padding:4px 7px 5px 7px; border-top:none; border-right:2px solid black; border-left:none" valign="top"><span style="font-size:10px;"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" new="" roman="" times="">Upto: </span></b><span lang="EN-US" new="" roman="" times="">[SPapplication SP Permit upto]</span></span></span></span></td>
+		</tr>
+		<tr>
+			<td style="border-bottom:none; border-top:none; border-right:none; border-left:none; ">&nbsp;</td>
+			<td style="border-bottom:none; border-top:none; border-right:none; border-left:none; ">&nbsp;</td>
+			<td style="border-bottom:none; border-top:none; border-right:none; border-left:none;">&nbsp;</td>
+			<td style="border-bottom:none; border-top:none; border-right:none; border-left:none;">&nbsp;</td>
+			<td style="border-bottom:none; border-top:none; border-right:none; border-left:none; ">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p align="right" style="text-align:right">[SPapplication Signature]</p>
+
+<p align="right" style="text-align:right">&nbsp;</p>
+
+<p align="right" style="text-align:right">&nbsp;</p>
+<p align="right" style="text-align:right">&nbsp;</p>
+
+<p align="right" style="text-align:right; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" style="font-size:12.0pt"><span style="line-height:107%"><span new="" roman="" style="font-family:" times="">Secretary, Regional Transport Authority</span></span></span></b></span></span></span></p>
+
+<p align="right" style="text-align:right; margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><b><span lang="EN-US" style="font-size:12.0pt"><span style="line-height:107%"><span new="" roman="" style="font-family:" times="">(Name of the RTA)</span></span></span></b></span></span></span></p>
+
+<p>&nbsp;</p>

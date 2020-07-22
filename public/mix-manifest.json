@@ -1,0 +1,14 @@
+{
+    "/js/backend.js": "/js/backend.js",
+    "/js/frontend.js": "/js/frontend.js",
+    "/css/frontend.css": "/css/frontend.css",
+    "/css/backend.css": "/css/backend.css",
+    "/css/bootstrap-datetimepicker-standalone.css": "/css/bootstrap-datetimepicker-standalone.css",
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/jquery-3.5.1.js": "/js/jquery-3.5.1.js",
+    "/js/moment.min.js": "/js/moment.min.js",
+    "/js/bootstrap-datetimepicker.min.js": "/js/bootstrap-datetimepicker.min.js"
+    
+
+}

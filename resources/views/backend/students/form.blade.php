@@ -42,7 +42,7 @@
                             {{ html()->label(__('Teacher'))->class('col-md-2 form-control-label')->for('teacher_id') }}
 
                             <div class="col-md-6">
-                            {!! html()->select('teacher_id', $teachers, $student->teacher_id ?? old('teacher_id'), ["class"=>'form-control','required'=>true]) !!}
+                            {!! html()->select('teacher_id', $teachers, $student->teacher_id ?? old('teacher_id'))->class('form-control')->required() !!}
                                
                                      
                             </div><!--col-->
@@ -180,8 +180,8 @@
                                 if (percentComplete === 100) {
                                     console.log('completed 100%')
 
-                                    var imageUrl = window.URL.createObjectURL(photo)
-                                    $('.imgPreview').attr('src', imageUrl);
+                                    {{-- var imageUrl = window.URL.createObjectURL(photo)
+                                    $('.imgPreview').attr('src', imageUrl); --}}
                                     setTimeout(function () {
                                         $('.progress-bar').css('width', '0%');
                                     }, 2000)

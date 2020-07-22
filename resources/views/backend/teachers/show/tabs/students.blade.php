@@ -22,7 +22,13 @@
                                 <td>{{ $student->phone_no }}</td>
                                 <td>{{ $student->address }}</td>
                                 <td>{{ $student->updated_at->diffForHumans() }}</td>
-                                <td class="btn-td">@include('backend.students.includes.actions', ['student' => $student])</td>
+                                <td class="btn-td">
+                                
+    <div class="btn-group" role="group" aria-label="@lang('labels.backend.access.users.user_actions')">
+        <a href="{{ route('admin.students.show', $student) }}" data-toggle="tooltip" data-placement="top" title="@lang('buttons.general.crud.view')" class="btn btn-info">
+            <i class="fas fa-eye"></i>
+        </a>     
+    </div></td>
                             </tr>
                         @endforeach
                         </tbody>

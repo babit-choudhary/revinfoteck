@@ -22,7 +22,8 @@ class DatabaseSeeder extends Seeder
             'sessions',
         ]);
 
-        $this->call(AuthTableSeeder::class,TeacherSeeder::class);
+        $this->call(AuthTableSeeder::class);
+        $this->call(TeacherSeeder::class);
 
         Model::reguard();
     }
